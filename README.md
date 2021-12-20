@@ -1,16 +1,30 @@
 # wifi_boss
 
-A Login Manager for wifi login
+Impleted a crossplatform application using flutter, that can be used to login the wifi.
 
-## Getting Started
+## advanced features
+- added dark thememode
+- added save credentials feature
+- added fun emoji aknowledgement
+## packages used
+- http
 
-This project is a starting point for a Flutter application.
+- url_launcher
 
-A few resources to get you started if this is your first Flutter project:
+- sqflite
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- font_awesome_flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## screenshots
+
+<div float='left'>
+<img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/mainScreen.jpeg" height=300>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/passwordScreen.jpeg" height=300>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/connectedScreen.jpeg" height=300>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/errorConnecting.jpeg" height=300>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+ </div>
