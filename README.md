@@ -17,28 +17,11 @@ WiFi Boss is a cross-platform application built using Flutter that simplifies th
 
 ## Screenshots
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-  <div>
-    <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/mainScreen.jpeg" alt="Main Screen" height="300">
-    <p align="center"><em>Main Screen</em></p>
-  </div>
-
-  <div>
-    <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/passwordScreen.jpeg" alt="Password Screen" height="300">
-    <p align="center"><em>Password Screen</em></p>
-  </div>
-
-  <div>
-    <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/connectedScreen.jpeg" alt="Connected Screen" height="300">
-    <p align="center"><em>Connected Screen</em></p>
-  </div>
-
-  <div>
-    <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/errorConnecting.jpeg" alt="Error Connecting" height="300">
-    <p align="center"><em>Error Connecting</em></p>
-  </div>
-
-  <!-- Add more images here if needed -->
+  <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/mainScreen.jpeg" alt="Main Screen" height="300">
+  <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/passwordScreen.jpeg" alt="Password Screen" height="300">
+  <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/connectedScreen.jpeg" alt="Connected Screen" height="300">
+  <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/errorConnecting.jpeg" alt="Error Connecting" height="300">
 
 </div>
