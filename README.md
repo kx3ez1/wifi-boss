@@ -1,30 +1,44 @@
-# wifi_boss
+# WiFi Boss
 
-Impleted a crossplatform application using flutter, that can be used to login the wifi.
+WiFi Boss is a cross-platform application built using Flutter that simplifies the process of logging into Wi-Fi networks.
 
-## advanced features
-- added dark thememode
-- added save credentials feature
-- added fun emoji aknowledgement
-## packages used
-- http
+## Features
 
-- url_launcher
+- Dark theme mode for enhanced user experience.
+- Save credentials feature for quick and easy access to Wi-Fi networks.
+- Fun emoji acknowledgment to add a touch of personality.
 
-- sqflite
+## Packages Used
 
-- font_awesome_flutter
+- **http:** Used for making HTTP requests.
+- **url_launcher:** Enables launching URLs.
+- **sqflite:** A SQLite plugin for Flutter, used for local data storage.
+- **font_awesome_flutter:** Provides Font Awesome icons for Flutter applications.
 
+## Screenshots
 
-## screenshots
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
 
-<div float='left'>
-<img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/mainScreen.jpeg" height=300>
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/passwordScreen.jpeg" height=300>
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/connectedScreen.jpeg" height=300>
-&nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/errorConnecting.jpeg" height=300>
-  &nbsp; &nbsp; &nbsp; &nbsp;
- </div>
+  <div>
+    <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/mainScreen.jpeg" alt="Main Screen" height="300">
+    <p align="center"><em>Main Screen</em></p>
+  </div>
+
+  <div>
+    <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/passwordScreen.jpeg" alt="Password Screen" height="300">
+    <p align="center"><em>Password Screen</em></p>
+  </div>
+
+  <div>
+    <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/connectedScreen.jpeg" alt="Connected Screen" height="300">
+    <p align="center"><em>Connected Screen</em></p>
+  </div>
+
+  <div>
+    <img src="https://github.com/kx3ez1/wifi-boss/blob/master/images/errorConnecting.jpeg" alt="Error Connecting" height="300">
+    <p align="center"><em>Error Connecting</em></p>
+  </div>
+
+  <!-- Add more images here if needed -->
+
+</div>
